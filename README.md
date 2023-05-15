@@ -6,7 +6,7 @@ How well can we predict the future sale price of a bulldozer, given its characte
 2. Data
 The data is downloaded from the Kaggle Bluebook for Bulldozers competition: https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
-There are 3 main datasets:
+### There are 3 main datasets:
 
 Train.csv is the training set, which contains data through the end of 2011.
 Valid.csv is the validation set, which contains data from January 1, 2012 - April 30, 2012. The goal is to make predictions on this set. 
